@@ -1,0 +1,4 @@
+
+{
+    int soLuongMuc, soLuongHang;
+    do {
