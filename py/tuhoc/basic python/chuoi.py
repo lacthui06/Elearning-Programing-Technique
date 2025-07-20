@@ -1,0 +1,13 @@
+print('\n')
+print('con \bheo')
+print('con\theo')
+print('\'')
+print('\\')
+str='thui%slac'%('anh')
+str1=str[len(str)-1]
+print(str1)
+print(str)
+f='%.2f'%(3.4999)
+print(f)
+n='{:-^20}'.format('lacthui')
+print(n)
